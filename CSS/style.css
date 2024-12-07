@@ -10,11 +10,11 @@
 }
 
 :root {
-    --main-color: #54372a;
-    --second-color: #df582e;
+    --main-color: #fff;
+    --second-color: #2CC88D;
     --text-color: #060413;
-    --container-color: #f8e4be;
-    --bg-color: #f9f6f2;
+    --container-color: #629A63;
+    --bg-color: #4c8479;
     --text-alter-color: #94908e;
     --poppins-font: "Poppins", sans-serif;
     --font-family-2: "Playfair Display", serif;
@@ -247,13 +247,13 @@ header {
     grid-template-columns: repeat(3, 250px);
     justify-content: space-between;
     gap: 2rem;
-    background: #e8d8cd;
+    background: #629A63;
     border-radius: 1.5rem;
     padding: 40px 60px;
 }
 
 .product-box {
-    background: #fff8f7;
+    background: #4c8479;
     padding: 20px;
     border-radius: 1.5rem;
     display: flex;
